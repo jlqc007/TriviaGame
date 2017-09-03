@@ -1,0 +1,19 @@
+body {
+    font-family: "Garamond, EB Garamond;"
+}
+
+.jumbotron {
+    color: white;
+}
+
+.display-3 {
+    margin-left: 60px;
+}
+
+.lead {
+    margin-left: 60px;
+}
+
+#start {
+    margin-left: 60px;
+}
